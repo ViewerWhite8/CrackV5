@@ -32,5 +32,5 @@ cd HakDos
 ```
 
 ```
-python DDoSL7
+python DDoSL7.py
 ```
