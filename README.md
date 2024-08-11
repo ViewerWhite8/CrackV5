@@ -28,9 +28,9 @@ git clone https://github.com/ViewerWhite8/CrackV5
 ```
 
 ```
-cd CrackV5
+cd HakDos
 ```
 
 ```
-python CrackV5.py
+python DDoSL7
 ```
